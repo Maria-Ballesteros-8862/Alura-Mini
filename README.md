@@ -7,10 +7,4 @@ Flexbox: Posicione elementos en la pantalla
 * las propiedades de Flexbox sustituyen float, inline e inline-block  
 * Elaborar un sitio web responsivo con Flexbox
 
-<p align="center" >
-     <img width="500" heigth="300" src="![Uploading Mini-Alura-encabezado.png…]()">
-</p>
 
-<p align="center" >
-     <img width="500" heigth="300" src="![Uploading Mini-Alura-Footer.png…]()">
-</p>
